@@ -1,0 +1,14 @@
+body
+{
+ background-color:white;
+} 
+.box
+{
+background-color:#3d4543;
+height:300px;
+width:250px;
+border-radius:10px;
+position:relative;
+top:80px;
+left:40px;
+} 
